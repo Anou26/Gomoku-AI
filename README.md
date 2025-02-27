@@ -1,4 +1,4 @@
-# **Gomoku-AI** 🎯  
+# **Gomoku-AI**  
 An AI-powered Gomoku player leveraging **Convolutional Neural Networks (CNNs)** and the **Minimax Algorithm** to make strategic moves and outplay opponents. This project combines deep learning with classical game theory to create a formidable AI opponent.  
 
 ---
